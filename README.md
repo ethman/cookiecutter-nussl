@@ -3,7 +3,7 @@ Cookiecutter for NUSSL
 
 A boilerplate for reproducible and transparent computer audition research that leverages
 `nussl`, a source separation library. This project uses
-[cookiecutter](https://cookiecutter.readthedocs.io/en/latest/readme.html).
+[cookiecutter](https://cookiecutter.readthedocs.io/en/latest/README.html).
 *A logical, reasonably standardized, but flexible project structure for doing and 
 sharing research.*
 
